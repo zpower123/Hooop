@@ -20,7 +20,7 @@ This is a recreation of the board game "Hooop" made using Java. This project was
 ```
 git clone https://github.com/zpower123/Hooop
 ```
-3. Open the game by running the jar file ```Hooop.jar``` or entering the following lines into your terminal:
+2. Open the game by running the jar file ```Hooop.jar``` or entering the following lines into your terminal:
 ```
 cd <filepath> # replace with installation directory
 java -jar Hooop.jar
