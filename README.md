@@ -26,14 +26,14 @@ cd <filepath> # replace with installation directory
 java -jar Hooop.jar
 ```
 3. Start or load a game
-<img width="1919" height="1079" alt="Start Screen" src="https://github.com/user-attachments/assets/6eb8e7b3-e53c-4675-a32f-302c6042b1e0" />
+<img width="1919" height="1079" alt="Start Screen" src="https://github.com/user-attachments/assets/05903dea-0aaa-47b1-b4f4-98ab6146ffc3" />
 4. Read rules and select your mode, 2 player or 4 player
-<img width="1919" height="1079" alt="Game Rule and Player Selection Screen" src="https://github.com/user-attachments/assets/0f1a7d9b-e503-4212-a030-9192ba96242f" />
+<img width="1919" height="1079" alt="Game Rule and Player Selection Screen" src="https://github.com/user-attachments/assets/cfe55612-53b6-4075-85a8-0408575d2e4e" />
 5. Pick the names for each player and start the game
-<img width="1919" height="1079" alt="Team Selection" src="https://github.com/user-attachments/assets/df1b71f2-ed30-45d9-9fc6-e1dd482f78fb" />
+<img width="1919" height="1079" alt="Team Selection" src="https://github.com/user-attachments/assets/a02f4b2e-974c-47d5-b8f5-a3dd426c1af7" />
 6. Play the game and enjoy!
-<img width="1919" height="1079" alt="Gameplay Start" src="https://github.com/user-attachments/assets/72c0337f-1e8f-48f6-9d9b-efad0396f7f1" />
-<img width="1919" height="1079" alt="Gameplay Shot" src="https://github.com/user-attachments/assets/2c9635e8-abb3-4796-8c62-6a664f45277f" />
+<img width="1919" height="1079" alt="Gameplay Start" src="https://github.com/user-attachments/assets/7053f3d3-9ce5-4001-a67b-d8d92f0bdcd7" />
+<img width="1919" height="1079" alt="Gameplay Shot" src="https://github.com/user-attachments/assets/25bf5fcb-8158-4f34-9676-4d435d10f90f" />
 
 # Known Bugs
 - Extra Bridge Action Card doesn't allow a second bridge to be placed
